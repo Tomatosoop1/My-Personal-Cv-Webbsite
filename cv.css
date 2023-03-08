@@ -1,0 +1,145 @@
+#main{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background: #232630;
+}
+#side{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 1200px;
+    left: 0px;
+    background: #2E3031;
+}
+#home{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top: 20px;
+    left:15px;
+}
+#user{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top: 90px;
+    left:15px;
+}
+#header{
+    position: absolute;
+    font-size: 80px;
+    border: 5px solid white;
+    background-color: white;
+    left:40%;
+    top:20px;
+}
+#courses{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top: 160px;
+    left:15px;
+}
+#contact{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    top: 230px;
+    left:15px;
+}
+#hdr{
+    position: absolute;
+    width: 250px;
+    height: 90px;
+    left: 40%;
+    top: 50px;
+    background-color: rgb(34, 50, 64);
+    border-radius:10px;
+    color: rgb(117, 121, 126);
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;       
+}
+#selfie{
+    position:absolute;
+    left:40%;
+    top:25%;
+    width: 250px;
+    height: 300px;
+    border-radius:5px;
+}
+#contactinfo{
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    left: 40%;
+    top: 21%;
+    background-color: rgb(23, 52, 76);
+    border-radius:10px;
+    color: rgb(117, 121, 126);
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;        
+}
+#contactform{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 40%;
+    top: 42%;
+    background-color: rgb(23, 52, 76);
+    border-radius:10px;
+    color: rgb(117, 121, 126);
+    font-size: 15px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;    
+
+}
+#coursestable{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 40%;
+    top: 25%;
+    background-color: rgb(23, 52, 76);
+    border-radius:10px;
+    color: rgb(117, 121, 126);
+    font-size: 15px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;     
+}
+#aboutmeinfo{
+    position: absolute;
+    width: 250px;
+    height: 370px;
+    left: 40%;
+    top: 22%;
+    background-color: rgb(23, 52, 76);
+    border-radius:10px;
+    color: rgb(117, 121, 126);
+    font-size: 22px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;     
+}
+#contacts{
+    position: absolute;
+    width: 250px;
+    height: 65px;
+    left: 40%;
+    top: 73%;
+    background-color: rgb(23, 52, 76);
+    border-radius:10px;
+    color: rgb(117, 121, 126);
+    font-size: 15px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;        
+}
